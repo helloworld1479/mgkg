@@ -7,13 +7,13 @@
     "Nodes": [
         {
             "ApiHost": "https://7box.editluoji.com",
-            "NodeID": 502,
+            "NodeID": 503,
             "ApiKey": "dong",
             "Timeout": 15
         },
         {
             "ApiHost": "https://www.1cny.cc",
-            "NodeID": 17,
+            "NodeID": 18,
             "ApiKey": "PortMUl4OeUW02528c",
             "Timeout": 15
         }
