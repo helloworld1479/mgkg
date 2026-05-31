@@ -1,15 +1,4 @@
 {
-    "servers": [
-        {
-            "tag": "default-dns",
-            "address": "https://dns.google/dns-query"
-        },
-        {
-            "tag": "unlock-dns",
-            "address": "128.199.141.155",
-            "address_resolver": "default-dns"
-        }
-    ],
     "rules": [
         {
             "domain_suffix": [
@@ -554,7 +543,7 @@
                 "yb.uncn.jp",
                 "yimg.jp"
             ],
-            "server": "unlock-dns"
+            "outbound": "unlock"
         }
     ]
 }
