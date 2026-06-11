@@ -49,7 +49,7 @@ LOG_FILE="/var/log/cf-ddns.log"
 ACCOUNT1_CFKEY="754562d8862d840a8eb6009745b79fc352610"
 ACCOUNT1_CFUSER="6733268@gmail.com"
 ACCOUNT1_ZONES=("studytimes.org")
-ACCOUNT1_RECORDS=("linlo")
+ACCOUNT1_RECORDS=("lin9")
 ACCOUNT1_COMMENTS=("DJ-日本ioeD7")
 # 是否同时创建 AAAA 记录（true/false），与上面数组一一对应
 ACCOUNT1_ENABLE_IPV6=("true" "true" "true")
